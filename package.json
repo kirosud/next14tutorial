@@ -1,5 +1,5 @@
 {
-  "name": "next14starter",
+  "name": "next14tutorial",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
     "next": "14.0.4"
   },
   "devDependencies": {
-    "eslint": "^8",
+    "eslint": "^9",
     "eslint-config-next": "14.0.4"
   }
 }

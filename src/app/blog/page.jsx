@@ -6,8 +6,14 @@ const BlogPage = () => {
     <div className={styles.container}>
       <div className={styles.post}>
         <PostCard  />
+      </div>
+      <div className={styles.post}>
         <PostCard  />
+      </div>
+      <div className={styles.post}>
         <PostCard  />
+      </div>
+      <div className={styles.post}>
         <PostCard  />
       </div>
     </div>

@@ -2,6 +2,7 @@ import Image from 'next/image'
 import styles from './about.module.css'
 
 const AboutPage = () => {
+  console.log('lets check where it works')
   return (
     <div className={styles.container}>
       <div className={styles.textContainer}>
@@ -34,7 +35,7 @@ const AboutPage = () => {
         <Image src="/about.png" alt="" fill className={styles.img}></Image>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default AboutPage;
+export default AboutPage

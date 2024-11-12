@@ -5,9 +5,9 @@
 }
 
 .imgContainer {
+  position: relative;
   flex: 1;
   height: 500px;
-  position: relative;
 }
 
 .img {

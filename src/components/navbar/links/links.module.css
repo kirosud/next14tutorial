@@ -40,5 +40,6 @@
     width: 50%;
     height: calc(100vh - 100px);
     background-color: var(--bg);
+    z-index: 99;
   }
 }
